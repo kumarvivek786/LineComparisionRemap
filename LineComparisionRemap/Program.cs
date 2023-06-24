@@ -11,7 +11,7 @@ namespace LineComparisionRemap
         static void Main(string[] args)
         {
 
-            //UC-3 Find the Line is equal,greater or less 
+            //UC-3 Find the Line is equal,greater or less.. 
             //variables
             int x1, y1, x2, y2, x3, y3, x4, y4;
             double Length1;
